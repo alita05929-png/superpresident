@@ -1,5 +1,5 @@
 /* ============================================================
-   XMoney — site config + interactions
+   Super President — site config + interactions
    ============================================================ */
 
 /* ─────────────────────────────────────────────────────────────
@@ -18,8 +18,8 @@ const CONFIG = {
   scan:     "https://solscan.io/token/4AL1nAp9gnHygZVpjcWLaPFgLPcqDXAyKuRH25Bzpump",
 
   // Socials
-  twitter:  "https://x.com/xmoneysol_x",
-  telegram: "",
+  twitter:  "https://x.com/superastrump",
+  telegram: "https://t.me/supertrumponsol",
 };
 
 /* ── auto-fill links ──────────────────────────────────────── */
