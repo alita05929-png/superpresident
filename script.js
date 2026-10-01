@@ -10,12 +10,12 @@
    ───────────────────────────────────────────────────────────── */
 const CONFIG = {
   // Solana mint address
-  contract: "4AL1nAp9gnHygZVpjcWLaPFgLPcqDXAyKuRH25Bzpump",
+  contract: "HVUFFsRbWFV2kRS467iRJGLdJ9o93yQJqmSWa9fkpump",
 
   // Trading + chart links. Fill these in once the mint is live.
-  buy:      "https://jup.ag/swap/SOL-4AL1nAp9gnHygZVpjcWLaPFgLPcqDXAyKuRH25Bzpump",
-  chart:    "https://dexscreener.com/solana/4AL1nAp9gnHygZVpjcWLaPFgLPcqDXAyKuRH25Bzpump",
-  scan:     "https://solscan.io/token/4AL1nAp9gnHygZVpjcWLaPFgLPcqDXAyKuRH25Bzpump",
+  buy:      "https://jup.ag/swap/SOL-HVUFFsRbWFV2kRS467iRJGLdJ9o93yQJqmSWa9fkpump",
+  chart:    "https://dexscreener.com/solana/HVUFFsRbWFV2kRS467iRJGLdJ9o93yQJqmSWa9fkpump",
+  scan:     "https://solscan.io/token/HVUFFsRbWFV2kRS467iRJGLdJ9o93yQJqmSWa9fkpump",
 
   // Socials
   twitter:  "https://x.com/superastrump",
